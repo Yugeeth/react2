@@ -5,6 +5,12 @@
 ![home](https://user-images.githubusercontent.com/88324231/139297717-3cc171b7-3b60-47cf-8a28-c7ac13a0a387.jpg)
 ## Expplore page
 ![explore](https://user-images.githubusercontent.com/88324231/139297529-653880b7-05e8-49eb-ab3a-b62414fcec73.jpg)
+# CONTRIBUTION GUIDE
+- fork this repository
+- clone this repo
+- define your issue with template
+- commit your pull requeat
+
 # Technologies that used
 - React JS
 - HTML
